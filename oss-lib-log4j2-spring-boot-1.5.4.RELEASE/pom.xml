@@ -10,8 +10,8 @@
         <version>1.0.10.OSS-SNAPSHOT</version>
     </parent>
 
-    <artifactId>oss-lib-log4j2-spring-boot-1.4.1.RELEASE</artifactId>
-    <name>oss-lib-log4j2-spring-boot-1.4.1.RELEASE</name>
+    <artifactId>oss-lib-log4j2-spring-boot-1.5.4.RELEASE</artifactId>
+    <name>oss-lib-log4j2-spring-boot-1.5.4.RELEASE</name>
     <packaging>jar</packaging>
 
     <!--build>
@@ -23,7 +23,7 @@
         <dependencies>
             <dependency>
                 <groupId>cn.home1</groupId>
-                <artifactId>oss-common-dependencies-spring-boot-1.4.1.RELEASE</artifactId>
+                <artifactId>oss-common-dependencies-spring-boot-1.5.4.RELEASE</artifactId>
                 <version>${oss-common-dependencies.version}</version>
                 <type>pom</type>
                 <scope>import</scope>
